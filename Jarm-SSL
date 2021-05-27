@@ -1,6 +1,5 @@
 commonfields:
-  id: 4e641fb5-10a7-4b41-8cbf-bc726cc6700c
-  version: 30
+  
 name: JARM
 script: |-
   import codecs
